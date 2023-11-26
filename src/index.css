@@ -1,0 +1,18 @@
+/* src/styles/index.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Your custom styles go here */
+
+body{
+    background-color: #E8E8E8;
+}
+.scrollbar-hide::-webkit-scrollbar {
+    width: 0.5em;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: transparent;
+  }

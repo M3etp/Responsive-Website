@@ -5,16 +5,7 @@
 
 Travlog is a responsive web design project built using Tailwind CSS and React. This project is focused on providing a seamless user experience across both desktop and mobile devices.
 
-## Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 

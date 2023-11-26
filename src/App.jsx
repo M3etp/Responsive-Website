@@ -4,6 +4,8 @@ import Home from './components/Home'
 import Clients from './components/Clients'
 import Services from './components/Services'
 import TravelPoint from './components/TravelPoint'
+import Newsletter from './components/Newsletter'
+import Footer from './components/Footer'
 
 
 function App() {
@@ -17,6 +19,8 @@ function App() {
         <Clients />
         <Services />
         <TravelPoint />
+        <Newsletter />
+        <Footer />
       </div>
     </>
   )
